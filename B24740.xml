@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices of Ireland, a proclamation. Charles Porter, Tho: Coningesby. Whereas several of the Irish, whose dwellings are near the frontiers, have made very ill use of that favour and protection which their Majesties have shewn them, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24740</idno><idno type="EEBO-CITATION">99886516</idno>
+  <idno type="VID">186736</idno>
+  <idno type="EEBO-PROQUEST">2240886755</idno>
+  
+            <idno type="STC">Wing I455</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[27]</idno>
+            <idno type="STC">ESTC R226120</idno>
+            <idno type="STC">ESTC R232443</idno>
+            <idno type="PROQUEST">ocm99886516</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886516e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186736)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices of Ireland, a proclamation. Charles Porter, Tho: Coningesby. Whereas several of the Irish, whose dwellings are near the frontiers, have made very ill use of that favour and protection which their Majesties have shewn them, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Took, printer to the King and Queens most Excellent Majesties on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at the castle of Dublin, this 21st day of February,".</note>
+                  <note>Date of publication from Steele.</note>
+                  <note>Laying down a Frontier Line.--Steele.</note>
+                  <note>Steele notation: Arms 193. that come defend.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186736:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>OIT QV<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" extent="3 words">
+                        <desc>〈◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE LORDS-JUSTICES of IRELAND, A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>THO: CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas several of the <hi>Irish,</hi> whose Dwellings are near the Frontiers, have made very ill use of that Favour and Protection which Their Majesties have shewn them, and taking Advantage from the place where they live, they have held Correspondence with the Rebels, and frequently Har<g ref="char:EOLhyphen"/>boured them in their Houses, whereby great Violences and Depredations have been commit<g ref="char:EOLhyphen"/>ted upon Their Majesties good Subjects, contrary to the Duty and Allegiance they owe Them: Yet so it has happen'd, that tho' the Fact be evident, the Persons are not discover'd: For preventing therefore the same for the Future, We have thought fit to Order and Declare, That all the Line and Frontier of the Quarters now under Their Majesties Obedience and Protecti<g ref="char:EOLhyphen"/>on, is and shall be esteemed and taken to be the Cities, Towns, Castles, Forts, Rivers and Places under this Our Proclamation particularly mentioned and expressed. And that all Per<g ref="char:EOLhyphen"/>sons who have formerly had Their Majesties Protection, and now live quietly and peace<g ref="char:EOLhyphen"/>ably in pursuance of the same, within or upon the said Line, shall still be protected and defended; And that all such as now dwell between the said Line and <hi>Shannon,</hi> shall also be protected and defended. Provided that within Twenty days after the publishing hereof, They come themselves with their Stocks and Families within the said Line, and render them<g ref="char:EOLhyphen"/>selves to the Governor or Officer in Chief of the next Garrison upon the said Frontiers, whom We do hereby Authorize to grant Protections to the same. Provided also that They with their said Stocks and Families, shall go Ten Miles within Our Quarters from the said Line, and take the Oath of Allegiance to Their Majesties, which we do hereby empower the Governors of the respective Garrisons upon the Frontiers to Administer to all Persons that shall come in as aforesaid.</p>
+            <p>And We do strictly Charge and Command all Officers and Soldiers, and all other Their Majesties Subjects, that they do not in the least molest or trouble any of them, who shall be so protected, neither in their persons, Goods or Estates, as they will answer the con<g ref="char:EOLhyphen"/>trary at their utmost peril; and what Persons soever after the Thirteenth day of <hi>March</hi> next, shall be found between the said Line and the <hi>Shannon,</hi> (except such Protestants as have strong Houses without the said Line, which they have and shall take upon them to defend against the Enemy) shall be put out of Their Majesties protection, and be treated as Spies and Enemies to Their Government.</p>
+            <closer>
+               <dateline>Given at the Castle of <hi>Dublin,</hi>
+                  <date>this 21st day of <hi>February,</hi> in the Third Year of Their Majesties Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_frontier_posts">
+            <head>The Frontier Line mentioned in the Proclamation.</head>
+            <list>
+               <item>CASTLE-HAVEN.
+<list>
+                     <item>Kilmac Cabe.</item>
+                     <item>Drinagh.</item>
+                     <item>Dunmanaway.</item>
+                     <item>Castletown.</item>
+                     <item>Kilmony.</item>
+                  </list>
+               </item>
+               <item>MACROMP.
+<list>
+                     <item>Aghabulloge.</item>
+                     <item>Kilclah.</item>
+                     <item>Temple Mitchell.</item>
+                     <item>Mourne.</item>
+                  </list>
+               </item>
+               <item>MALLOW.
+<list>
+                     <item>Ballynagooly,</item>
+                  </list>
+               </item>
+               <item>BALLYHOOLY.</item>
+               <item>FERMOY-BRIDGE.
+<list>
+                     <item>Lismore.</item>
+                  </list>
+               </item>
+               <item>CAPPERQUIN.
+<list>
+                     <item>Ballybeacon.</item>
+                     <item>Castlegrace.</item>
+                     <item>Ardmain.</item>
+                  </list>
+               </item>
+               <item>CAHIR.
+<list>
+                     <item>Knockgrassard.</item>
+                  </list>
+               </item>
+               <item>GOLDING-BRIDGE.</item>
+               <item>CASHELL.
+<list>
+                     <item>Ardmayl.</item>
+                     <item>Holycross,</item>
+                  </list>
+               </item>
+               <item>THURLES.
+<list>
+                     <item>Loghmoe.</item>
+                     <item>Templemore.</item>
+                     <item>Clonckany.</item>
+                  </list>
+               </item>
+               <item>ROSCREA.
+<list>
+                     <item>Ballybritt.</item>
+                     <item>Ballymonyne.</item>
+                  </list>
+               </item>
+               <item>BIRR.
+<list>
+                     <item>Eglish.</item>
+                     <item>Kilcormu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k.</item>
+                     <item>Ballyboy.</item>
+                     <item>Gallis.</item>
+                     <item>Scregan.</item>
+                     <item>Clonmore.</item>
+                     <item>Phillipstown.</item>
+                     <item>Clonnerell.</item>
+                     <item>Tyrrells pass.</item>
+                     <item>Newcastle.</item>
+                     <item>Kilbride.</item>
+                     <item>Katlinstown,</item>
+                  </list>
+               </item>
+               <item>MOLLINGHAR.
+<list>
+                     <item>Cullonmore,</item>
+                     <item>Collun Murray.</item>
+                     <item>Foxhall,</item>
+                     <item>Ardak.</item>
+                     <item>Leny.</item>
+                     <item>Ballincloe.</item>
+                     <item>Mastrim.</item>
+                     <item>Newtown.</item>
+                  </list>
+               </item>
+               <item>LONGFORD.</item>
+               <item>CASTLEFORBUS.
+<list>
+                     <item>Drumvile.</item>
+                     <item>Granard.</item>
+                  </list>
+               </item>
+               <item>FINA.
+<list>
+                     <item>Drumlomon.</item>
+                     <item>Ballintemple.</item>
+                     <item>Lismore.</item>
+                     <item>Kilmore.</item>
+                  </list>
+               </item>
+               <item>CAVAN
+<list>
+                     <item>Cavan.</item>
+                     <item>Buttlerage Bridge.</item>
+                  </list>
+               </item>
+               <item>BELTURBATT.
+<list>
+                     <item>Watelbridge.</item>
+                     <item>Newtownbridge.</item>
+                     <item>Linaskea.</item>
+                     <item>Lismila.</item>
+                     <item>Castle Coote.</item>
+                  </list>
+               </item>
+               <item>ENISKILLING.
+<list>
+                     <item>Ballycassedy.</item>
+                     <item>Newportstown.</item>
+                     <item>Lisnagarve.</item>
+                     <item>Crevenisk.</item>
+                     <item>Turmon Castle.</item>
+                     <item>Rossebeg.</item>
+                  </list>
+               </item>
+               <item>BELLEEK.</item>
+               <item>BALLYSHANNON.</item>
+            </list>
+            <closer>
+               <signed>GEO: CLARKE.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Took,</hi> Printer to the King and Queens most Excellent Majesties on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
